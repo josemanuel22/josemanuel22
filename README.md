@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&animation=fadeIn&text=Hey Everyone!%20&fontSize=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&animation=fadeIn&text=Hey Everyone!&fontSize=70"/>
 </p>
 
 - 👋 Hi, I’m José Manuel de Frutos
