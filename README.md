@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋%20Hello!%20I'm%20José%20Manuel.&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋%20Hello!%20I'm%20José%20Manuel.&fontSize=60&animation=fadeIn" />
 </p>
 
 - 👀 I’m interested in Software development, Scientific Computing, Statistics, Machine Learning and Distributed systems.
