@@ -5,7 +5,7 @@
 - 👀 I’m interested in Software development, Scientific Computing, Statistics, Machine Learning and Distributed systems.
 - 🌱 I’m currently learning The meaning of life...
 - 💞️ I’m looking to collaborate on scientific projects where it is necessary to develop some code!
-- 📫 How to reach me at josemanuel.defrutos22@gmail.com, [![LinkedIn][3.2] LinkedIn][3] or [![Stackoverflow][3.3] Stack Overflow][4]
+- 📫 How to reach me at josemanuel.defrutos22@gmail.com or [![LinkedIn][3.2] LinkedIn][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
