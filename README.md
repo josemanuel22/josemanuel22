@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋 Hello! I'm José Maneul.&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=Hello! I'm José Maneul.&fontSize=70&animation=fadeIn" />
 </p>
 
 - 👋 Hi, I’m José Manuel de Frutos
