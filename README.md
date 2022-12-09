@@ -31,7 +31,7 @@
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://www.flaticon.com/free-icon/linkedin_1383262
+[3.2]: https://i.stack.imgur.com/gVE0j.png (linkedin icon without padding)
 
 <!-- links to your social media accounts -->
 [3]: https://www.linkedin.com/in/jose-manuel-de-frutos-porras/
