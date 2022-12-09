@@ -5,7 +5,7 @@
 - 👀 I’m interested in Software development, Scientific Computing, Statistics, Machine Learning and Distributed systems.
 - 🌱 I’m currently learning The meaning of life...
 - 💞️ I’m looking to collaborate on scientific projects where it is necessary to develop some code!
-- 📫 How to reach me at josemanuel.defrutos22@gmail.com or [![LinkedIn][3.2] LinkedIn][3]
+- 📫 How to reach me at josemanuel.defrutos22@gmail.com, [![LinkedIn][3.2] LinkedIn][3] or [![Stackoverflow][3.3] Stack Overflow][4]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -32,9 +32,11 @@
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://i.stack.imgur.com/gVE0j.png (linkedin icon without padding)
+[3.3]: https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.png (linkedin icon without padding)
 
 <!-- links to your social media accounts -->
 [3]: https://www.linkedin.com/in/jose-manuel-de-frutos-porras/
+[4]: https://stackoverflow.com/users/15165527/jose-manuel-de-frutos
 
 <!---
 josemanuel22/josemanuel22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
