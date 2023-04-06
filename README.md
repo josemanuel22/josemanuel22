@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning The meaning of life...
 - 💞️ I’m looking to collaborate on scientific projects where it is necessary to develop some code!
 - 📫 How to reach me at josemanuel.defrutos22@gmail.com or [![LinkedIn][3.2] LinkedIn][3].
+- 🌐 My personal [webpage](https://josemanuel22.github.io/). 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
