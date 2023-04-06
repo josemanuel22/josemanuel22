@@ -8,6 +8,7 @@
 - 📫 How to reach me at josemanuel.defrutos22@gmail.com or [![LinkedIn][3.2] LinkedIn][3].
 - 🌐 My personal [webpage](https://josemanuel22.github.io/). 
 
+<!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=Vim&logoColor=white&color=2bbc8a)
@@ -20,6 +21,7 @@
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+-->
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/josemanuel22">
