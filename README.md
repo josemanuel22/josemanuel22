@@ -23,12 +23,13 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 -->
 
-
+<!--
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/josemanuel22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josemanuel22&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemanuel22&theme=noctis_minimus&layout=compact" />
 </a>
+-->
 
 
 
