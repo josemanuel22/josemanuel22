@@ -3,6 +3,7 @@
 </p>-->
 
 Hi there 👋
+
 Hello, I'm José Manuel
 
 - 👀 I’m interested in Software development, Scientific Computing, Statistics, Machine Learning and Distributed systems.
