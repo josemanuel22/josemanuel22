@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=👋%20Hello!%20I'm%20José%20Manuel.&fontSize=60&animation=fadeIn" />
 </p>-->
 
-Hi there 👋
-
-Hello, I'm José Manuel
+Hello 👋, I'm José Manuel
 
 - 👀 I’m interested in Software development, Scientific Computing, Statistics, Machine Learning and Distributed systems.
 - 🌱 I’m currently learning The meaning of life...
